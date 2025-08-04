@@ -1,6 +1,15 @@
 # Casino-Royale
 Casino Royale is a modern online casino platform where you can create or join rooms and play with friends. Built for fun, security, and a seamless experience, it brings the thrill of classic casino games to your screen. Enjoy, compete, and connect!
 
+## TBD
+- Chat Screen
+- Reaction
+- Bidding Timer - Random Value if not locked his choice
+- check copy button
+- Security
+- LCP Optimization
+- buy me a coffee button
+
 ## App Snapshots
 
 <img width="2556" height="1176" alt="image" src="https://github.com/user-attachments/assets/5e593ea2-874a-4d40-92c6-b738c779b875" />
