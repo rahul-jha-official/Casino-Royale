@@ -11,7 +11,6 @@ Casino Royale is a modern online casino platform where you can create or join ro
 - buy me a coffee button
 
 ## App Snapshots
-
 <img width="2556" height="1176" alt="image" src="https://github.com/user-attachments/assets/5e593ea2-874a-4d40-92c6-b738c779b875" />
 
 <img width="2548" height="1172" alt="image" src="https://github.com/user-attachments/assets/9521b515-0b7e-49d9-b460-de31b7286af4" />
